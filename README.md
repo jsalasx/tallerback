@@ -1,5 +1,9 @@
 # tallerback
 
+# Base de Datos
+
+Postgres 14, nombre de la base "taller2"
+
 # Creacion del Usuario admin
 
 Usuario: drk
